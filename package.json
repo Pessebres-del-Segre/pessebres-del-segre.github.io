@@ -40,6 +40,7 @@
     "update:pkgs": "npx npm-check-updates -u"
   },
   "devDependencies": {
+     "postcss": "^8.4.0",
     "autoprefixer": "^10.4.21",
     "cross-env": "^10.0.0",
     "hugo-extended": "0.148.2",
