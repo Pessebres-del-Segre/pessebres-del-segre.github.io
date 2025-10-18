@@ -73,7 +73,7 @@ Participa al Repte #Caganer!</i>
 <div class="row">
 <div class="col-lg-4">
 
- <img src="/castellot.png" alt="AltTetx" style="width:100%; height:auto;">
+ <img src="/images/castellot.png" alt="AltTetx" style="width:100%; height:auto;">
 </div>
 
 <div class="col-lg-8">
