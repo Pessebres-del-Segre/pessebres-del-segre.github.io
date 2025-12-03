@@ -77,7 +77,6 @@ Participa al Repte del Pessebre Perdut!
       <li><strong>20 i 26 de desembre 2025</strong> <br> Visites del jurat als pessebres inscrits.</li>
       <li><strong>27 de desembre 2025</strong> <br> Caminada al Castellot i visita al pessebre.</li>
       <li><strong>6 de gener 2026</strong> <br> Lliurament de premis del Concurs de Pessebres.</li>
-
     </ul>
   </div>
 </div>

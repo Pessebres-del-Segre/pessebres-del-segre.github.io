@@ -5,13 +5,13 @@ sectionPagesMenu: main
 
 {{< blocks/cover title="Pessebres d'Artesa de Segre" image_anchor="top" height="full" >}}
 
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/google/docsy-example">
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="/concurs/">
 Participa al concurs!
 </a>
 <a class="btn btn-lg btn-warning me-3 mb-4" href="https://pessebres-del-segre.github.io/repte/#/">
 Participa al Repte del Pessebre Perdut!
 </a>
-<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
+<a class="btn btn-lg btn-primary me-3 mb-4" href="/activitats/">
 Totes les activitats <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 <p class="lead mt-5 text-white">70é Concurs de Pessebres d’Artesa de Segre i Comarca</p>
