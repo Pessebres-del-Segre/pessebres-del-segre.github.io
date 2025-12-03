@@ -1,0 +1,120 @@
+# UI strings. Buttons and similar.
+
+[ui_pager_prev]
+other = "Anterior"
+
+[ui_pager_next]
+other = "Següent"
+
+[ui_read_more]
+other = "Llegeix més"
+
+[ui_search]
+other = "Cerca en aquest lloc…"
+
+# Used in sentences such as "Posted in News"
+[ui_in]
+other = "a"
+
+# Used in sentences such as "All Tags"
+[ui_all]
+other = "tots"
+
+# Footer text
+[footer_all_rights_reserved]
+other = "Tots els drets reservats"
+
+[footer_privacy_policy]
+other = "Política de privacitat"
+
+# Post (blog, articles etc.)
+[post_byline_by]
+other = "Per"
+
+[post_created]
+other = "Creat"
+
+[post_last_mod]
+other = "Darrera modificació"
+
+[post_edit_this]
+other = "Edita aquesta pàgina"
+
+[post_view_this]
+other = "Mostra el codi font de la pàgina"
+
+[post_create_child_page]
+other = "Crea una pàgina filla"
+
+[post_create_issue]
+other = "Crea una incidència de documentació"
+
+[post_create_project_issue]
+other = "Crea una incidència del projecte"
+
+[post_posts_in]
+other = "Publicacions a"
+
+[post_reading_time]
+other = "minuts de lectura"
+
+[post_less_than_a_minute_read]
+other = "menys d’un minut"
+
+# Print support
+[print_printable_section]
+other = "Aquesta és la vista imprimible multipàgina d’aquesta secció."
+
+[print_click_to_print]
+other = "Fes clic aquí per imprimir"
+
+[print_show_regular]
+other = "Torna a la vista normal d’aquesta pàgina"
+
+[print_entire_section]
+other = "Imprimeix tota la secció"
+
+# Community
+[community_join]
+other = "Uneix-te a la associació!"
+
+[community_introduce]
+other = "L’Associació de Pessebristes d’Artesa de Segre i Comarca manté viva la tradició dels pessebres, organitza el Concurs de Pessebres i impulsa activitats de Nadal al poble. Si t’agrada donar suport a la vida cultural d’Artesa, fes-te soci/sòcia i forma part del projecte!"
+
+[community_learn]
+other = "Ajuda'ns a crèixer!"
+
+[community_using]
+other = "Vols donar suport al Concurs de Pessebres i a les activitats que organitzem durant l’any? És la millor manera d’ajudar-nos a continuar la tradició de nadal catalana."
+
+[community_develop]
+other = "Desenvolupa i Contribueix"
+
+[community_contribute]
+other = "Encara que no siguis soci/sòcia, també et pots implicar a l’associació donant un cop de mà en moments clau de l’any."
+
+[community_how_to]
+other = "Vols contribuir a la pàgina web? Llegeix les nostres"
+
+[community_guideline]
+other = "directrius de contribució"
+
+# Feedback
+[feedback_title]
+other = "Comentaris"
+
+[feedback_question]
+other = "T'ha estat útil aquesta pàgina?"
+
+[feedback_positive]
+other = "Sí"
+
+[feedback_negative]
+other = "No"
+
+# Table of contents
+[toc_on_this_page]
+other = "En aquesta pàgina"
+
+[toc_top_of_page]
+other = "Torna a l’inici"

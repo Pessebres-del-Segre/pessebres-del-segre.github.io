@@ -1,14 +1,15 @@
 ---
 title: Goldydocs
+sectionPagesMenu: main
 ---
 
 {{< blocks/cover title="Pessebres d'Artesa de Segre" image_anchor="top" height="full" >}}
 
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/google/docsy-example">
-Participa al concurs!</i>
+Participa al concurs!
 </a>
-<a class="btn btn-lg btn-warning me-3 mb-4" href="https://github.com/google/docsy-example">
-Participa al Repte #Caganer!</i>
+<a class="btn btn-lg btn-warning me-3 mb-4" href="https://pessebres-del-segre.github.io/repte/#/">
+Participa al Repte del Pessebre Perdut!
 </a>
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
 Totes les activitats <i class="fas fa-arrow-alt-circle-right ms-2"></i>
@@ -38,6 +39,8 @@ No et deixis el caganer!
 Envia'ns el teu pessebre per Whatsapp <a href="https://wa.me/0034625485223" target="_blank">(link)</a> o per correu
 concurspessebresartesa@gmail.com
 
+Si vols, fem visita presencial el 20 i 26 de desembre!
+
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fab fa-3" title="Recull el teu premi!" %}}
@@ -50,7 +53,7 @@ Vine a l’entrega de premis el 6 de gener i celebra amb nosaltres la tradició 
 
 {{% blocks/section color="primary" %}}
 
-<h2 class="text-center pb-4">Participa al Repte #Caganer!</h2>
+<h2 class="text-center pb-4">Participa al Repte del Pessebre Perdut!</h2>
 
 <h3 class="pb-4">El pessebre d'Artesa de Segre s'ha perdut!</h3>
 Participa al repte del pessebre d’Artesa! Diverses peces del pessebre s’han escampat pels comerços del poble. Busca-les,
@@ -60,8 +63,8 @@ Aconseguiràs trobar qui ha amagat el pessebre?
 A mesura que trobis certs codis, desbloquejaràs fragments del conte del caganer perdut… fins a descobrir qui ha amagat el pessebre!
 </div>
 <div class="pt-4 text-center">
-<a class="btn btn-lg btn-warning me-3 mb-4" href="https://github.com/google/docsy-example">
-Participa al Repte #Caganer!</i>
+<a class="btn btn-lg btn-warning me-3 mb-4" href="https://pessebres-del-segre.github.io/repte/#/">
+Participa al Repte!</i>
 </a>
 </div>
 {{% /blocks/section %}}

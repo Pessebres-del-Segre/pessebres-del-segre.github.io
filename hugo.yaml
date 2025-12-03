@@ -106,10 +106,10 @@ params:
   url_latest_version: https://example.com
 
   # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-  github_repo: https://github.com/google/docsy-example
+  github_repo: https://github.com/Pessebres-del-Segre
 
   # An optional link to a related project repo. For example, the sibling repository where your product code lives.
-  github_project_repo: https://github.com/google/docsy
+  github_project_repo: https://github.com/Pessebres-del-Segre/pessebres-del-segre.github.io
 
   # Specify a value here if your content directory is not in your repo's root directory
   # github_subdir: ""
@@ -128,8 +128,8 @@ params:
   prism_syntax_highlighting: false
 
   copyright:
-    authors: Docsy Authors | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
-    from_year: 2018
+    authors: Associació de Pessebristes d'Artesa de Segre | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
+    from_year: 2025
 
   # User interface configuration
   ui:
@@ -165,32 +165,13 @@ params:
   links:
     # End user relevant links. These will show up on left side of footer and in the community page if you have one.
     user:
-      - name: User mailing list
-        url: https://example.org/mail
-        icon: fa fa-envelope
-        desc: Discussion and help from your fellow users
-      - name: Twitter
-        url: https://example.org/twitter
-        icon: fab fa-twitter
-        desc: Follow us on Twitter to get the latest news!
-      - name: Stack Overflow
-        url: https://example.org/stack
-        icon: fab fa-stack-overflow
-        desc: Practical questions and curated answers
+      - name: Instagram
+        url: https://www.instagram.com/pessebres_artesa/
+        icon: fab fa-instagram
+        desc: Segueix-nos a Instagram!
+
     # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
-    developer:
-      - name: GitHub
-        url: https://github.com/google/docsy
-        icon: fab fa-github
-        desc: Development takes place here!
-      - name: Slack
-        url: https://example.org/slack
-        icon: fab fa-slack
-        desc: Chat with other project developers
-      - name: Developer mailing list
-        url: https://example.org/mail
-        icon: fa fa-envelope
-        desc: Discuss development issues around the project
+    developer: []
 
 module:
   # Uncomment the next line to build and serve using local docsy clone declared in the named Hugo workspace:
@@ -198,6 +179,9 @@ module:
   hugoVersion:
     extended: true
     min: 0.146.0
+  mounts:
+    - source: i18n
+      target: i18n
   imports:
     - path: github.com/google/docsy
       disable: false
