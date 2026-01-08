@@ -1,4 +1,4 @@
 ---
-title: News
+title: Notícies
 weight: 20
 ---

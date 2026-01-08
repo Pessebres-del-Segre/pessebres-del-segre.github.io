@@ -1,4 +1,4 @@
 ---
-title: Releases
+title: Arxiu
 weight: 20
 ---
