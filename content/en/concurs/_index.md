@@ -8,6 +8,13 @@ menu: { main: { weight: 20 } }
 
 Descobreix tota la informació sobre el **70è Concurs de Pessebres d'Artesa de Segre**.
 
+<p class="mt-4">
+<a href="https://pessebres-del-segre.github.io/blog/2026/01/07/resultats-70%C3%A8-concurs-de-pessebres/" target="_blank" class="btn btn-secondary" style="color: white;">
+    <i class="fas fa-trophy mr-2"></i> Mira els resultats del 70é Concurs de Pessebres!
+    </a>
+</p>
+
+
 {{% /blocks/lead %}}
 
 {{% blocks/section color="white" %}}
@@ -24,7 +31,7 @@ Descobreix tota la informació sobre el **70è Concurs de Pessebres d'Artesa de 
       <p>També es poden crear <strong>Accèssits</strong> segons la qualitat dels pessebres presentats.</p>
     </div>
   </div>
-  
+
   <div class="col-lg-4 mb-4">
     <div class="text-center">
       <i class="fas fa-user fa-3x mb-3 text-primary"></i>
@@ -34,7 +41,7 @@ Descobreix tota la informació sobre el **70è Concurs de Pessebres d'Artesa de 
       <p>També es poden crear <strong>Accèssits</strong> segons la qualitat dels pessebres presentats.</p>
     </div>
   </div>
-  
+
   <div class="col-lg-4 mb-4">
     <div class="text-center">
       <i class="fas fa-lightbulb fa-3x mb-3 text-primary"></i>
@@ -67,7 +74,6 @@ Descobreix tota la informació sobre el **70è Concurs de Pessebres d'Artesa de 
 </div>
 
 {{% /blocks/section %}}
-
 
 {{% blocks/section color="white" %}}
 
